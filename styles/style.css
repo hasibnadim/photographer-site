@@ -40,6 +40,8 @@ main.indexp header {
   height: calc(100vh - 150px);
   font-size: 30px;
   font-family: "Dosis", sans-serif;
+  width: 86%;
+  margin: auto;
 }
 .land_page_content_block p.title {
   font-size: 91px;
@@ -48,7 +50,7 @@ main.indexp header {
 }
 .land_page_content_block .line {
   position: absolute;
-  left: -4px;
+  left: -17px;
   background-color: #009688;
   padding: 5px;
   border-radius: 3px;
